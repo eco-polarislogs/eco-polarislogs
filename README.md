@@ -1,6 +1,5 @@
-### 📊 GitHub İstatistiklerim
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eco-polarislogs&show_icons=true&theme=tokyonight&hide_border=true)
+### 🔥 GitHub Aktivite Serim
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eco-polarislogs&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eco-polarislogs&theme=tokyonight&hide_border=true)]((https://git.io/streak-stats))
