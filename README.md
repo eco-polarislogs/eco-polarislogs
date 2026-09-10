@@ -142,11 +142,3 @@
 </div>
 
 
-
-
-
-### 🖥️ Live Terminal Stream
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=500&color=00FF66&background=0D1117&center=true&vCenter=true&width=800&lines=%3E+Initializing+Secure+Connection...+[OK];%3E+Loading+Spring+Boot+Microservices...+[OK];%3E+Decrypting+Database+Credentials...+[OK];%3E+Access+Granted:+Welcome+to+Polaris+Station+✨" alt="Terminal Stream" />
-</div>
