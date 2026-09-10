@@ -122,14 +122,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-### 🏅 Başarılar & Rozetler
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/assets/images/pull-shark.svg" width="75" alt="Pull Shark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/api/assets/images/quickdraw.svg" width="75" alt="Quickdraw" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/api/assets/images/yolo.svg" width="75" alt="YOLO" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/api/assets/images/pair-extraordinaire.svg" width="75" alt="Pair Extraordinaire" />
-</p>
