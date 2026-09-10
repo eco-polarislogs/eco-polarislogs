@@ -116,51 +116,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">✨ eco > polarislogs ✨</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=120&section=header&text=Ecren%20Solmazgül&fontSize=28&fontColor=38bdf8&fontAlignY=35&desc=Backend%20Developer%20&%20Space%20Explorer&descSize=14&descColor=94a3b8" alt="Header" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=800&color=00FF66&background=0D1117&center=true&vCenter=true&width=850&lines=%3E+root@polaris:~%23+dotnet+run+--project+Dedektif.csproj;const+developer+%3D+%22Ecren+Solmazg%C3%BCl%22;;public+class+SecurityService+%7B+private+JwtToken+token;+%7D;spring-boot+--active.profile=secure-banking;" alt="Code and Terminal Stream" />
-</p>
-
-<p align="center">
-  <i>🌌 "Guiding through lines of code, like the North Star." 🌌</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="mailto:solmazgulecren@gmail.com">
-    <img src="https://img.shields.io/badge/📩_İletişim_%2F_Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn_Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
 ### 💻 System.out.println("Hakkımda");
 
 ```csharp
