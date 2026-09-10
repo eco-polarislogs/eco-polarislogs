@@ -53,22 +53,29 @@
 
 <br/>
 
-### 🕹️ Mini Games & Arcade Zone
+<br/>
+
+### 🕹️ Mini Games & Interactive Projects
 
 <p align="center">
-  <i>"Press Start to Play Check out my web games collection!"</i>
+  <i>"Step into the digital universe: Play web games or solve mysteries!"</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/eco-polarislogs/Oyunlars" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Play_React_Games-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Oyunlars" />
+    <img src="https://img.shields.io/badge/🎮_Oyunlars_(React)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Oyunlars" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Level_Up-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" />
+  <a href="https://github.com/eco-polarislogs/Dedektif" target="_blank">
+    <img src="https://img.shields.io/badge/🔍_Dedektif_(C%23_RPG)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dedektif" />
+  </a>
 </p>
 
-<!-- Retro Oyun Kartı / Vitrini -->
+<!-- Proje Vitrini Kartları (Yan Yana Uyumlu Tasarım) -->
 <p align="center">
   <a href="https://github.com/eco-polarislogs/Oyunlars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Oyunlars&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" alt="Oyunlars Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Oyunlars&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="Oyunlars Repo" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/Dedektif">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Dedektif&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="Dedektif Repo" />
   </a>
 </p>
