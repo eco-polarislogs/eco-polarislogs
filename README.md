@@ -1,8 +1,8 @@
 <h1 align="center">✨ eco > polarislogs ✨</h1>
 
-<!-- Daktilo Animasyonu -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=0284C7&center=true&vCenter=true&width=800&lines=const+developer+%3D+%22Ecren+Solmazg%C3%BCl%22;;const+major+%3D+%22Backend+Software+Development+%40+D%C3%BCzce+University%22;;console.log(%22Building+the+digital+universe...+%E2%9C%A8%22);" alt="Typing SVG" />
+  <b><code>const developer = "Ecren Solmazgül";</code></b><br>
+  <b><code>const major = "Backend Software Development @ Düzce University";</code></b>
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 
 <p align="center">
   Merhaba! Ben Ecren. Düzce Üniversitesi'nde Arka-Yüz Yazılım Geliştirme (Backend Software Development) ön lisans 2. sınıf öğrencisiyim.<br>
+  Yıldızlar gibi parlayan sağlam ve güvenli backend mimarileri geliştirmek için kod yazıyorum.
 </p>
 
 <br/>
