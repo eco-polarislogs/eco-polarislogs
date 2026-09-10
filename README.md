@@ -135,3 +135,128 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">✨ eco > polarislogs ✨</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=120&section=header&text=Ecren%20Solmazgül&fontSize=28&fontColor=38bdf8&fontAlignY=35&desc=Backend%20Developer%20&%20Space%20Explorer&descSize=14&descColor=94a3b8" alt="Header" />
+</p>
+
+---
+
+### 🕹️ Karakter Kartı / Player Stats
+
+<div align="center">
+
+| Özellik | Değer |
+| :--- | :--- |
+| **Kullanıcı Adı** | `eco-polarislogs` |
+| **Sınıf (Class)** | `Backend Developer` |
+| **Üs (Base)** | `Düzce University` |
+| **Favori Silah** | `C# & Spring Boot` |
+| **Durum** | `Building digital universes 🚀` |
+
+</div>
+
+<br/>
+
+### 💻 Komuta Merkezi / Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<br/>
+
+### 🚀 Görev Vitrini (Projects Showcase)
+
+<div align="center">
+
+| Proje Adı | Açıklama & Teknoloji | Hızlı Erişim |
+| :--- | :--- | :--- |
+| **🎮 Oyunlars** | 20+ Web Oyunu Koleksiyonu | [Repo](https://github.com/eco-polarislogs/Oyunlars) |
+| **🔍 Dedektif** | C# .NET 10 Point-and-Click RPG | [Repo](https://github.com/eco-polarislogs/Dedektif) |
+| **🚗 AracApp** | Web & Expo Mobil Uygulama | [Repo](https://github.com/eco-polarislogs/AracApp) |
+| **🌍 Ulkelers** | React Eğitim Platformu | [Repo](https://github.com/eco-polarislogs/Ulkelers) |
+| **📦 Envanter** | Animasyonlu Web Sistemi | [Repo](https://github.com/eco-polarislogs/EnvanterWebSitesi) |
+| **📚 NovaKitap** | AI Destekli Kitap Satış | [Repo](https://github.com/eco-polarislogs/NovaKitap) |
+
+</div>
+
+<br/>
+
+### 📊 Galaksi Aktivite Kayıtları
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eco-polarislogs&theme=tokyo-night&bg_color=0D1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<br/>
+
+### 🐍 Cosmic Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
