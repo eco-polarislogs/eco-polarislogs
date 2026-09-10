@@ -50,16 +50,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-
-
 
 
 
