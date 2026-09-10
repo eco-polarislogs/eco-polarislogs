@@ -73,12 +73,3 @@
   </a>
 </p>
 
-<!-- Proje Vitrini Kartları (Yan Yana Uyumlu Tasarım) -->
-<p align="center">
-  <a href="https://github.com/eco-polarislogs/Oyunlars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Oyunlars&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="Oyunlars Repo" />
-  </a>
-  <a href="https://github.com/eco-polarislogs/Dedektif">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Dedektif&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" width="48%" alt="Dedektif Repo" />
-  </a>
-</p>
