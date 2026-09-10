@@ -131,9 +131,8 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
-### 🏃‍♂️ GitHub Runner Character
+### 🌊 Cyber Energy Wave
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Badges/main/盘/Git.gif" alt="Runner" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:0f172a,100:0284c7&height=45&section=footer&animation=fadeIn&fontColor=38bdf8" alt="Wave Animation" width="100%" />
 </div>
