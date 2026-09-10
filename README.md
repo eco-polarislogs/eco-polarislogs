@@ -125,11 +125,11 @@
 ### 🏅 Başarılar & Rozetler
 
 <p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a744d.png" width="80" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github-profile-trophy.vercel.app/api/assets/images/pull-shark.svg" width="75" alt="Pull Shark" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/quickdraw-default-e7235ac75d1d.png" width="80" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github-profile-trophy.vercel.app/api/assets/images/quickdraw.svg" width="75" alt="Quickdraw" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/yolo-default-be96da46f414.png" width="80" alt="YOLO" title="YOLO" />
+  <img src="https://github-profile-trophy.vercel.app/api/assets/images/yolo.svg" width="75" alt="YOLO" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e7235ac75d1d.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github-profile-trophy.vercel.app/api/assets/images/pair-extraordinaire.svg" width="75" alt="Pair Extraordinaire" />
 </p>
