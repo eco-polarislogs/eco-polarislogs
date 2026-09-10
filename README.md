@@ -1,12 +1,8 @@
-<h1 align="center">✨ 𝓌ℯ𝓁𝓁𝒸ℴ𝓂ℯ ✨</h1>
+<h1 align="center">✨ 𝓌ℯ𝓁𝓁𝒸ℴ𝓂ℯ 𝕥𝕠 𝓂𝓎 𝓊𝓃𝒾𝓿ℯ𝓇𝓈ℯ ✨</h1>
 
+<!-- Kod Editörü Görünümlü Daktilo Animasyonu -->
 <p align="center">
-  <b><code>const developer = "Ecren Solmazgül";</code></b><br>
-  <b><code>const major = "Backend Software Development @ Düzce University";</code></b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=38BDF8&background=0B0F1900&center=true&vCenter=true&width=750&lines=Building+robust+backends+and+digital+worlds+%F0%9F%9A%80;Guiding+through+lines+of+code,+like+the+North+Star+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3500&pause=1000&color=38BDF8&background=0B0F1900&center=true&vCenter=true&width=780&lines=const+developer+%3D+%22Ecren+Solmazg%C3%BCl%22;;const+major+%3D+%22Backend+Software+Development+%40+D%C3%BCzce+University%22;;console.log(%22Guiding+through+lines+of+code,+like+the+North+Star+%E2%9C%A8%22);" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +13,7 @@
 
 <div align="center">
 
-### 👩‍💻 Backend Developer | Software Engineering Intern @ Tein
+### 👩‍💻 Backend Software Development Student | Software Engineering Intern @ Tein
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=38bdf8&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
