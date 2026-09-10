@@ -1,19 +1,4 @@
-### 🕹️ Mini Games & Interactive Projects
-
-<p align="center">
-  <i>"Step into the digital universe: Play web games or solve mysteries!"</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eco-polarislogs/Oyunlars" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Oyunlars_(React)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Oyunlars" />
-  </a>
-  <a href="https://github.com/eco-polarislogs/Dedektif" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_Dedektif_(C%23_RPG)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dedektif" />
-  </a>
-</p>
-
-<br/>  <h1 align="center">✨ eco > polarislogs ✨</h1>
+  <h1 align="center">✨ eco > polarislogs ✨</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=120&section=header&text=Ecren%20Solmazgül&fontSize=28&fontColor=38bdf8&fontAlignY=35&desc=Backend%20Developer%20&%20Space%20Explorer&descSize=14&descColor=94a3b8" alt="Header" />
 </p>
@@ -31,7 +16,7 @@
 
 <br/>
 
-### 💫 Hakkımda / About Me
+ 💫 Hakkımda / About Me
 
 <p align="center">
   Merhaba! Ben Ecren. Düzce Üniversitesi'nde Arka-Yüz Yazılım Geliştirme (Backend Software Development) ön lisans 2. sınıf öğrencisiyim.<br>
@@ -39,7 +24,7 @@
 
 <br/>
 
-### 🛠️ Kullandığım Teknolojiler & Diller
+🛠️ Kullandığım Teknolojiler & Diller
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -93,7 +78,7 @@
 </p>
 
 
-### 📂 Projelerim & Vitrin (Projects Showcase)
+📂 Projelerim & Vitrin (Projects Showcase)
 
 <p align="center">
   <i>"Explore my interactive web apps, games, and enterprise systems!"</i>
@@ -131,7 +116,7 @@
 
 
 <br/>
-### 🛡️ İlgi Alanlarım & Odak Odalarım
+🛡️ İlgi Alanlarım & Odak Odalarım
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00" />
