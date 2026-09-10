@@ -37,15 +37,18 @@
 
 <br/>
 
+<br/>
+
 ### 📊 GitHub Aktivite Serim
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=eco-polarislogs&theme=dark&hide_border=true&background=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=eco-polarislogs&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=eco-polarislogs&theme=default&hide_border=true" alt="GitHub Streak">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=eco-polarislogs&theme=dark&hide_border=true&background=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
