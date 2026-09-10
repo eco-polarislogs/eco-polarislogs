@@ -15,7 +15,7 @@
 
 <p align="center">
   Merhaba! Ben Ecren. Düzce Üniversitesi'nde Arka-Yüz Yazılım Geliştirme (Backend Software Development) ön lisans 2. sınıf öğrencisiyim.<br>
-  Yıldızlar gibi parlayan sağlam ve güvenli backend mimarileri geliştirmek için kod yazıyorum.
+
 </p>
 
 <br/>
