@@ -125,11 +125,15 @@
 </p>
 
 <br/>
-### 🐍 Cosmic Snake
+🐍 Cosmic Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
+### 🏃‍♂️ GitHub Runner Character
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Badges/main/盘/Git.gif" alt="Runner" width="100" />
+</div>
