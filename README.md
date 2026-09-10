@@ -48,3 +48,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+
+
+<br/>
+
+### 🕹️ Mini Games & Arcade Zone
+
+<p align="center">
+  <i>"Press Start to Play Check out my web games collection!"</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eco-polarislogs/Oyunlars" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Play_React_Games-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Oyunlars" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Level_Up-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+<!-- Retro Oyun Kartı / Vitrini -->
+<p align="center">
+  <a href="https://github.com/eco-polarislogs/Oyunlars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eco-polarislogs&repo=Oyunlars&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8" alt="Oyunlars Repo" />
+  </a>
+</p>
