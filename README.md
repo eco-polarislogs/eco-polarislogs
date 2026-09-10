@@ -122,3 +122,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+### 🏅 Başarılar & Rozetler
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a744d.png" width="80" alt="Pull Shark" title="Pull Shark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quickdraw-default-e7235ac75d1d.png" width="80" alt="Quickdraw" title="Quickdraw" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be96da46f414.png" width="80" alt="YOLO" title="YOLO" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e7235ac75d1d.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</p>
