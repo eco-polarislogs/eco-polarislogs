@@ -130,31 +130,6 @@
 <br/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🏆 Başarılarım & Kupalar
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eco-polarislogs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
-
-
-### 🐍 Contribution Snake Animation
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
