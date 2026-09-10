@@ -145,3 +145,117 @@
 
 
 
+
+
+
+
+<h1 align="center">✨ eco > polarislogs ✨</h1>
+
+<p align="center">
+  <b><code style="color: #38bdf8;">const developer = "Ecren Solmazgül";</code></b><br>
+  <b><code style="color: #38bdf8;">const major = "Backend Software Development @ Düzce University";</code></b>
+</p>
+
+<p align="center">
+  <i>🌌 "Guiding through lines of code, like the North Star." 🌌</i>
+</p>
+
+<br/>
+
+### 💫 Hakkımda / About Me
+
+<p align="center">
+  Merhaba! Ben Ecren. Düzce Üniversitesi'nde Arka-Yüz Yazılım Geliştirme (Backend Software Development) ön lisans 2. sınıf öğrencisiyim.<br>
+  Yıldızlar gibi parlayan sağlam ve güvenli backend mimarileri geliştirmek için kod yazıyorum.
+</p>
+
+<br/>
+
+### 🛠️ Kullandığım Teknolojiler & Diller
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<br/>
+
+### 📊 GitHub Aktivite Serim & Dil Analizi
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eco-polarislogs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eco-polarislogs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eco-polarislogs&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<br/>
+
+### 🕹️ Mini Games & Interactive Projects
+
+<p align="center">
+  <i>"Step into the digital universe: Play web games or solve mysteries!"</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eco-polarislogs/Oyunlars" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Oyunlars_(React)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Oyunlars" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/Dedektif" target="_blank">
+    <img src="https://img.shields.io/badge/🔍_Dedektif_(C%23_RPG)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dedektif" />
+  </a>
+</p>
+
+<br/>
+
+### 📂 Projelerim & Vitrin (Projects Showcase)
+
+<div align="center">
+  <a href="https://github.com/eco-polarislogs/Oyunlars" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Oyunlars_(20+_React_Games)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/Dedektif" target="_blank">
+    <img src="https://img.shields.io/badge/🔍_Dedektif_(C%23_RPG)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/AracApp" target="_blank">
+    <img src="https://img.shields.io/badge/🚗_AracApp_(Web_%26_Expo)-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/Ulkelers" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Ulkelers_(React_Edu)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/EnvanterWebSitesi" target="_blank">
+    <img src="https://img.shields.io/badge/📦_Envanter_Sistemi_(Animasyonlu)-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/eco-polarislogs/NovaKitap" target="_blank">
+    <img src="https://img.shields.io/badge/📚_NovaKitap_(AI_Bookstore)-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+
+
+
+
+
+
+
+
